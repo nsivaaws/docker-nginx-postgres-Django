@@ -13,6 +13,12 @@ run:
 migrate:
 	$(COMMAND) 'cd hello; for db in default database2; do ./manage.py migrate --database=$${db}; done'
 
+<<<<<<< 6084b79475d20097556b7dee221000d881395bba
+=======
+own:
+	sudo chown -R $(USER):$(USER) * .*
+
+>>>>>>> Add files
 check: checksafety checkstyle
 
 test:
@@ -29,6 +35,7 @@ coverage:
 
 clean:
 	rm -rf build
+<<<<<<< 6084b79475d20097556b7dee221000d881395bba
 	rm -rf hello.egg-info
 	rm -rf dist
 	rm -rf htmlcov
@@ -37,6 +44,15 @@ clean:
 	rm -rf .pytest_cache
 	find . -type f -name "*.pyc" -delete
 	rm -rf $(find . -type d -name __pycache__)
+=======
+	rm -rf dist
+	rm -rf htmlcov
+	rm -rf __pycache__
+	find . -type f -name "*.pyc" -delete
+	rm -rf $(find . -type d -name __pycache__)
+	rm -rf .tox
+	rm -rf .cache
+>>>>>>> Add files
 	rm .coverage
 	rm .coverage.*
 

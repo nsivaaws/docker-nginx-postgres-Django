@@ -1,7 +1,11 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< 6084b79475d20097556b7dee221000d881395bba
             "sha256": "8359adb75b1c6a60dabd7f50f06ef92a255751f61e8a862ac080dea3d7c0f5fa"
+=======
+            "sha256": "82a55c23366ec3ac04e9a1157b9e632184a4070b921e5c64c5a55e0b12a6d530"
+>>>>>>> Add files
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -36,6 +40,7 @@
             ],
             "version": "==2.0.1"
         },
+<<<<<<< 6084b79475d20097556b7dee221000d881395bba
         "gunicorn": {
             "hashes": [
                 "sha256:75af03c99389535f218cc596c7de74df4763803f7b63eb09d77e92b3956b36c6",
@@ -79,6 +84,8 @@
             ],
             "version": "==2.7.3.2"
         },
+=======
+>>>>>>> Add files
         "pytz": {
             "hashes": [
                 "sha256:80af0f3008046b9975242012a985f04c5df1f01eed4ec1633d56cc47a75a6a48",

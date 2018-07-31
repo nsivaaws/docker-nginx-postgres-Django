@@ -1,0 +1,4 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: unity-panel-service-lockscreen main process (2613) killed by KILL signal
+upstart: unity-panel-service-lockscreen main process (9601) killed by KILL signal

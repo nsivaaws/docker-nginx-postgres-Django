@@ -1,0 +1,193 @@
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+
+(nautilus:5370): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:5370): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:5370): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:5370): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:5370): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+WARN  2018-07-30 23:53:35 unity.dash.view DashView.cpp:1267 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2018-07-30 23:53:35 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2018-07-30 23:53:37 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+unity::action::ActionManager::ActionManager(QObject*):
+	Could not determine application identifier. HUD will not work properly.
+	Provide your application identifier in $APP_ID environment variable.
+UCUriHandler: Empty "APP_ID" environment variable, ignoring.
+file:///usr/share/webbrowser-app/webbrowser/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webbrowser/DownloadHandler.qml:20:1: module "Ubuntu.DownloadManager" is not installed
+Input device added: "Power Button" "/dev/input/event0" QFlags(0x1)
+Input device added: "VMware VMware Virtual USB Mouse" "/dev/input/event4" QFlags(0x2)
+Input device added: "AT Translated Set 2 keyboard" "/dev/input/event1" QFlags(0x1|0x10)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event3" QFlags(0x2)
+Input device added: "VirtualPS/2 VMware VMMouse" "/dev/input/event2" QFlags(0x2)
+
+(webbrowser-app:5741): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Permission denied
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+shm_open() failed: Permission denied
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+[0730/235414.968042:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+
+(webbrowser-app:5741): dconf-CRITICAL **: unable to create file '/run/user/1000/dconf/user': Permission denied.  dconf will not work properly.
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+OxideQQuickWebView: canGoForward is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+OxideQQuickWebView: canGoBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+TouchSelectionController::active is deprecated, use TouchSelectionController::status instead
+[PERFORMANCE]: Last frame took 602 ms to render.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 384 ms to render.
+
+** (webbrowser-app:5741): WARNING **: Unable to register app: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Invalid application ID
+[PERFORMANCE]: Last frame took 794 ms to render.
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) propsReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.103\" (uid=1000 pid=5741 comm=\"webbrowser-app \") interface=\"org.freedesktop.DBus.Properties\" member=\"GetAll\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=973 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+QNetworkManagerInterface::QNetworkManagerInterface(QObject*) nmReply "An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.103\" (uid=1000 pid=5741 comm=\"webbrowser-app \") interface=\"org.freedesktop.NetworkManager\" member=\"GetDevices\" error name=\"(unset)\" requested_reply=\"0\" destination=\"org.freedesktop.NetworkManager\" (uid=0 pid=973 comm=\"/usr/sbin/NetworkManager --no-daemon \")"
+"Object path cannot be empty"
+[PERFORMANCE]: Last frame took 83 ms to render.
+[PERFORMANCE]: Last frame took 33 ms to render.
+[PERFORMANCE]: Last frame took 50 ms to render.
+[PERFORMANCE]: Last frame took 34 ms to render.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 152 ms to render.
+[PERFORMANCE]: Last frame took 39 ms to render.
+[PERFORMANCE]: Last frame took 32 ms to render.
+[PERFORMANCE]: Last frame took 35 ms to render.
+[PERFORMANCE]: Last frame took 38 ms to render.
+[PERFORMANCE]: Last frame took 51 ms to render.
+[PERFORMANCE]: Last frame took 39 ms to render.
+[PERFORMANCE]: Last frame took 35 ms to render.
+[PERFORMANCE]: Last frame took 36 ms to render.
+[PERFORMANCE]: Last frame took 55 ms to render.
+[PERFORMANCE]: Last frame took 45 ms to render.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 60 ms to render.
+[PERFORMANCE]: Last frame took 42 ms to render.
+[PERFORMANCE]: Last frame took 32 ms to render.
+[PERFORMANCE]: Last frame took 1210 ms to render.
+[PERFORMANCE]: Last frame took 35 ms to render.
+[PERFORMANCE]: Last frame took 37 ms to render.
+[PERFORMANCE]: Last frame took 38 ms to render.
+[PERFORMANCE]: Last frame took 149 ms to render.
+[PERFORMANCE]: Last frame took 41 ms to render.
+[PERFORMANCE]: Last frame took 45 ms to render.
+[PERFORMANCE]: Last frame took 41 ms to render.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[PERFORMANCE]: Last frame took 57 ms to render.
+[PERFORMANCE]: Too many warnings were given. Performance monitoring stops.
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+qml: [JS] (https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js:1) JQMIGRATE: Logging is active
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+[0731/025639.720869:ERROR:KeyboardEventManager.cpp(424)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+OxideQQuickWebView: goBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+[0731/025708.337843:ERROR:KeyboardEventManager.cpp(424)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[0731/025714.600101:ERROR:KeyboardEventManager.cpp(424)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+FilePicker::Show: Content requested a file picker, but the application hasn't provided one
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed

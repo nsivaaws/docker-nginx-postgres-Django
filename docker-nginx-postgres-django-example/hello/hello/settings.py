@@ -79,11 +79,15 @@ WSGI_APPLICATION = 'hello.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+<<<<<<< 6084b79475d20097556b7dee221000d881395bba
         'NAME': 'database1',
         'USER': 'database1_role',
         'PASSWORD': 'database1_password',
         'HOST': 'database1',
         'PORT': '5432',
+=======
+        'NAME': 'hello_db',
+>>>>>>> Add files
     },
     'database2': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
